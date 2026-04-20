@@ -1,0 +1,1460 @@
+{
+  "region_data": {
+    "North America": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 4.05,
+          "avg_rating": 6.9
+        },
+        "Food": {
+          "avg_price": 16.2,
+          "avg_rating": 5.5
+        },
+        "Toys & Supplies": {
+          "avg_price": 27.0,
+          "avg_rating": 5.8
+        },
+        "Medical": {
+          "avg_price": 10.8,
+          "avg_rating": 7.9
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 10.8,
+          "avg_rating": 7.5
+        },
+        "Food": {
+          "avg_price": 16.2,
+          "avg_rating": 7.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 27.0,
+          "avg_rating": 8.5
+        },
+        "Medical": {
+          "avg_price": 6.75,
+          "avg_rating": 8.9
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 10.8,
+          "avg_rating": 6.7
+        },
+        "Food": {
+          "avg_price": 20.25,
+          "avg_rating": 8.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 24.3,
+          "avg_rating": 7.0
+        },
+        "Medical": {
+          "avg_price": 13.5,
+          "avg_rating": 5.5
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 24.3,
+          "avg_rating": 8.3
+        },
+        "Food": {
+          "avg_price": 33.75,
+          "avg_rating": 5.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 40.5,
+          "avg_rating": 5.4
+        },
+        "Medical": {
+          "avg_price": 27.0,
+          "avg_rating": 8.4
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 33.75,
+          "avg_rating": 5.9
+        },
+        "Food": {
+          "avg_price": 54.0,
+          "avg_rating": 6.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 47.25,
+          "avg_rating": 8.0
+        },
+        "Medical": {
+          "avg_price": 40.5,
+          "avg_rating": 6.4
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 40.5,
+          "avg_rating": 8.9
+        },
+        "Food": {
+          "avg_price": 74.25,
+          "avg_rating": 6.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 54.0,
+          "avg_rating": 8.6
+        },
+        "Medical": {
+          "avg_price": 60.75,
+          "avg_rating": 6.2
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 67.5,
+          "avg_rating": 5.3
+        },
+        "Food": {
+          "avg_price": 74.25,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 54.0,
+          "avg_rating": 6.0
+        },
+        "Medical": {
+          "avg_price": 60.75,
+          "avg_rating": 7.7
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 60.75,
+          "avg_rating": 7.0
+        },
+        "Food": {
+          "avg_price": 54.0,
+          "avg_rating": 6.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 47.25,
+          "avg_rating": 7.0
+        },
+        "Medical": {
+          "avg_price": 54.0,
+          "avg_rating": 8.7
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 54.0,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 81.0,
+          "avg_rating": 6.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 60.75,
+          "avg_rating": 6.5
+        },
+        "Medical": {
+          "avg_price": 74.25,
+          "avg_rating": 7.7
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 67.5,
+          "avg_rating": 7.8
+        },
+        "Food": {
+          "avg_price": 121.5,
+          "avg_rating": 7.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 74.25,
+          "avg_rating": 5.9
+        },
+        "Medical": {
+          "avg_price": 94.5,
+          "avg_rating": 7.1
+        }
+      }
+    },
+    "Europe": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 3.75,
+          "avg_rating": 8.1
+        },
+        "Food": {
+          "avg_price": 15.0,
+          "avg_rating": 7.3
+        },
+        "Toys & Supplies": {
+          "avg_price": 25.0,
+          "avg_rating": 7.3
+        },
+        "Medical": {
+          "avg_price": 10.0,
+          "avg_rating": 7.8
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 10.0,
+          "avg_rating": 8.5
+        },
+        "Food": {
+          "avg_price": 15.0,
+          "avg_rating": 5.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 25.0,
+          "avg_rating": 8.8
+        },
+        "Medical": {
+          "avg_price": 6.25,
+          "avg_rating": 8.5
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 10.0,
+          "avg_rating": 5.0
+        },
+        "Food": {
+          "avg_price": 18.75,
+          "avg_rating": 5.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 22.5,
+          "avg_rating": 6.1
+        },
+        "Medical": {
+          "avg_price": 12.5,
+          "avg_rating": 8.1
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 22.5,
+          "avg_rating": 7.5
+        },
+        "Food": {
+          "avg_price": 31.25,
+          "avg_rating": 8.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 37.5,
+          "avg_rating": 6.2
+        },
+        "Medical": {
+          "avg_price": 25.0,
+          "avg_rating": 7.7
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 31.25,
+          "avg_rating": 8.9
+        },
+        "Food": {
+          "avg_price": 50.0,
+          "avg_rating": 6.3
+        },
+        "Toys & Supplies": {
+          "avg_price": 43.75,
+          "avg_rating": 8.3
+        },
+        "Medical": {
+          "avg_price": 37.5,
+          "avg_rating": 7.3
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 37.5,
+          "avg_rating": 8.4
+        },
+        "Food": {
+          "avg_price": 68.75,
+          "avg_rating": 6.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 50.0,
+          "avg_rating": 8.0
+        },
+        "Medical": {
+          "avg_price": 56.25,
+          "avg_rating": 5.3
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 62.5,
+          "avg_rating": 7.1
+        },
+        "Food": {
+          "avg_price": 68.75,
+          "avg_rating": 7.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 50.0,
+          "avg_rating": 8.9
+        },
+        "Medical": {
+          "avg_price": 56.25,
+          "avg_rating": 6.7
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 56.25,
+          "avg_rating": 6.7
+        },
+        "Food": {
+          "avg_price": 50.0,
+          "avg_rating": 5.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 43.75,
+          "avg_rating": 6.3
+        },
+        "Medical": {
+          "avg_price": 50.0,
+          "avg_rating": 8.3
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 50.0,
+          "avg_rating": 6.2
+        },
+        "Food": {
+          "avg_price": 75.0,
+          "avg_rating": 8.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 56.25,
+          "avg_rating": 6.9
+        },
+        "Medical": {
+          "avg_price": 68.75,
+          "avg_rating": 8.2
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 62.5,
+          "avg_rating": 8.2
+        },
+        "Food": {
+          "avg_price": 112.5,
+          "avg_rating": 9.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 68.75,
+          "avg_rating": 8.5
+        },
+        "Medical": {
+          "avg_price": 87.5,
+          "avg_rating": 6.4
+        }
+      }
+    },
+    "Oceania": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 3.9,
+          "avg_rating": 8.2
+        },
+        "Food": {
+          "avg_price": 15.6,
+          "avg_rating": 8.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.0,
+          "avg_rating": 7.2
+        },
+        "Medical": {
+          "avg_price": 10.4,
+          "avg_rating": 8.2
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 10.4,
+          "avg_rating": 6.9
+        },
+        "Food": {
+          "avg_price": 15.6,
+          "avg_rating": 7.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.0,
+          "avg_rating": 6.7
+        },
+        "Medical": {
+          "avg_price": 6.5,
+          "avg_rating": 6.9
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 10.4,
+          "avg_rating": 8.9
+        },
+        "Food": {
+          "avg_price": 19.5,
+          "avg_rating": 7.3
+        },
+        "Toys & Supplies": {
+          "avg_price": 23.4,
+          "avg_rating": 8.3
+        },
+        "Medical": {
+          "avg_price": 13.0,
+          "avg_rating": 5.7
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 23.4,
+          "avg_rating": 5.1
+        },
+        "Food": {
+          "avg_price": 32.5,
+          "avg_rating": 6.8
+        },
+        "Toys & Supplies": {
+          "avg_price": 39.0,
+          "avg_rating": 8.2
+        },
+        "Medical": {
+          "avg_price": 26.0,
+          "avg_rating": 5.3
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 32.5,
+          "avg_rating": 7.5
+        },
+        "Food": {
+          "avg_price": 52.0,
+          "avg_rating": 8.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 45.5,
+          "avg_rating": 6.6
+        },
+        "Medical": {
+          "avg_price": 39.0,
+          "avg_rating": 5.0
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 39.0,
+          "avg_rating": 8.9
+        },
+        "Food": {
+          "avg_price": 71.5,
+          "avg_rating": 8.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 52.0,
+          "avg_rating": 7.9
+        },
+        "Medical": {
+          "avg_price": 58.5,
+          "avg_rating": 7.2
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 65.0,
+          "avg_rating": 5.6
+        },
+        "Food": {
+          "avg_price": 71.5,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 52.0,
+          "avg_rating": 7.8
+        },
+        "Medical": {
+          "avg_price": 58.5,
+          "avg_rating": 7.1
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 58.5,
+          "avg_rating": 6.5
+        },
+        "Food": {
+          "avg_price": 52.0,
+          "avg_rating": 5.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 45.5,
+          "avg_rating": 5.8
+        },
+        "Medical": {
+          "avg_price": 52.0,
+          "avg_rating": 8.0
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 52.0,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 78.0,
+          "avg_rating": 8.3
+        },
+        "Toys & Supplies": {
+          "avg_price": 58.5,
+          "avg_rating": 6.2
+        },
+        "Medical": {
+          "avg_price": 71.5,
+          "avg_rating": 5.2
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 65.0,
+          "avg_rating": 6.4
+        },
+        "Food": {
+          "avg_price": 117.0,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 71.5,
+          "avg_rating": 5.8
+        },
+        "Medical": {
+          "avg_price": 91.0,
+          "avg_rating": 7.4
+        }
+      }
+    },
+    "Asia": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 2.55,
+          "avg_rating": 8.8
+        },
+        "Food": {
+          "avg_price": 10.2,
+          "avg_rating": 8.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 17.0,
+          "avg_rating": 7.9
+        },
+        "Medical": {
+          "avg_price": 6.8,
+          "avg_rating": 6.4
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 6.8,
+          "avg_rating": 7.5
+        },
+        "Food": {
+          "avg_price": 10.2,
+          "avg_rating": 6.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 17.0,
+          "avg_rating": 7.8
+        },
+        "Medical": {
+          "avg_price": 4.25,
+          "avg_rating": 5.9
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 6.8,
+          "avg_rating": 5.5
+        },
+        "Food": {
+          "avg_price": 12.75,
+          "avg_rating": 7.5
+        },
+        "Toys & Supplies": {
+          "avg_price": 15.3,
+          "avg_rating": 5.6
+        },
+        "Medical": {
+          "avg_price": 8.5,
+          "avg_rating": 5.2
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 15.3,
+          "avg_rating": 7.5
+        },
+        "Food": {
+          "avg_price": 21.25,
+          "avg_rating": 8.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 25.5,
+          "avg_rating": 8.0
+        },
+        "Medical": {
+          "avg_price": 17.0,
+          "avg_rating": 8.7
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 21.25,
+          "avg_rating": 7.9
+        },
+        "Food": {
+          "avg_price": 34.0,
+          "avg_rating": 5.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 29.75,
+          "avg_rating": 6.5
+        },
+        "Medical": {
+          "avg_price": 25.5,
+          "avg_rating": 8.2
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 25.5,
+          "avg_rating": 6.1
+        },
+        "Food": {
+          "avg_price": 46.75,
+          "avg_rating": 7.8
+        },
+        "Toys & Supplies": {
+          "avg_price": 34.0,
+          "avg_rating": 6.0
+        },
+        "Medical": {
+          "avg_price": 38.25,
+          "avg_rating": 8.3
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 42.5,
+          "avg_rating": 6.2
+        },
+        "Food": {
+          "avg_price": 46.75,
+          "avg_rating": 6.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 34.0,
+          "avg_rating": 5.6
+        },
+        "Medical": {
+          "avg_price": 38.25,
+          "avg_rating": 8.3
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 38.25,
+          "avg_rating": 8.7
+        },
+        "Food": {
+          "avg_price": 34.0,
+          "avg_rating": 7.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 29.75,
+          "avg_rating": 8.5
+        },
+        "Medical": {
+          "avg_price": 34.0,
+          "avg_rating": 8.2
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 34.0,
+          "avg_rating": 5.9
+        },
+        "Food": {
+          "avg_price": 51.0,
+          "avg_rating": 8.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 38.25,
+          "avg_rating": 8.2
+        },
+        "Medical": {
+          "avg_price": 46.75,
+          "avg_rating": 6.3
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 42.5,
+          "avg_rating": 7.1
+        },
+        "Food": {
+          "avg_price": 76.5,
+          "avg_rating": 6.2
+        },
+        "Toys & Supplies": {
+          "avg_price": 46.75,
+          "avg_rating": 5.1
+        },
+        "Medical": {
+          "avg_price": 59.5,
+          "avg_rating": 7.8
+        }
+      }
+    },
+    "South America": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 2.25,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 9.0,
+          "avg_rating": 6.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 15.0,
+          "avg_rating": 5.6
+        },
+        "Medical": {
+          "avg_price": 6.0,
+          "avg_rating": 7.3
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 6.0,
+          "avg_rating": 8.2
+        },
+        "Food": {
+          "avg_price": 9.0,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 15.0,
+          "avg_rating": 7.8
+        },
+        "Medical": {
+          "avg_price": 3.75,
+          "avg_rating": 6.9
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 6.0,
+          "avg_rating": 8.1
+        },
+        "Food": {
+          "avg_price": 11.25,
+          "avg_rating": 7.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 13.5,
+          "avg_rating": 5.7
+        },
+        "Medical": {
+          "avg_price": 7.5,
+          "avg_rating": 5.2
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 13.5,
+          "avg_rating": 7.8
+        },
+        "Food": {
+          "avg_price": 18.75,
+          "avg_rating": 5.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 22.5,
+          "avg_rating": 7.2
+        },
+        "Medical": {
+          "avg_price": 15.0,
+          "avg_rating": 7.6
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 18.75,
+          "avg_rating": 5.1
+        },
+        "Food": {
+          "avg_price": 30.0,
+          "avg_rating": 5.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.25,
+          "avg_rating": 7.5
+        },
+        "Medical": {
+          "avg_price": 22.5,
+          "avg_rating": 5.1
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 22.5,
+          "avg_rating": 8.1
+        },
+        "Food": {
+          "avg_price": 41.25,
+          "avg_rating": 7.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 30.0,
+          "avg_rating": 8.3
+        },
+        "Medical": {
+          "avg_price": 33.75,
+          "avg_rating": 6.0
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 37.5,
+          "avg_rating": 5.1
+        },
+        "Food": {
+          "avg_price": 41.25,
+          "avg_rating": 7.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 30.0,
+          "avg_rating": 8.2
+        },
+        "Medical": {
+          "avg_price": 33.75,
+          "avg_rating": 7.7
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 33.75,
+          "avg_rating": 6.7
+        },
+        "Food": {
+          "avg_price": 30.0,
+          "avg_rating": 5.8
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.25,
+          "avg_rating": 6.2
+        },
+        "Medical": {
+          "avg_price": 30.0,
+          "avg_rating": 6.5
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 30.0,
+          "avg_rating": 6.2
+        },
+        "Food": {
+          "avg_price": 45.0,
+          "avg_rating": 5.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 33.75,
+          "avg_rating": 5.8
+        },
+        "Medical": {
+          "avg_price": 41.25,
+          "avg_rating": 6.0
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 37.5,
+          "avg_rating": 8.6
+        },
+        "Food": {
+          "avg_price": 67.5,
+          "avg_rating": 7.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 41.25,
+          "avg_rating": 6.6
+        },
+        "Medical": {
+          "avg_price": 52.5,
+          "avg_rating": 8.5
+        }
+      }
+    },
+    "Africa": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 1.95,
+          "avg_rating": 6.4
+        },
+        "Food": {
+          "avg_price": 7.8,
+          "avg_rating": 7.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 13.0,
+          "avg_rating": 5.9
+        },
+        "Medical": {
+          "avg_price": 5.2,
+          "avg_rating": 8.9
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 5.2,
+          "avg_rating": 7.7
+        },
+        "Food": {
+          "avg_price": 7.8,
+          "avg_rating": 6.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 13.0,
+          "avg_rating": 6.1
+        },
+        "Medical": {
+          "avg_price": 3.25,
+          "avg_rating": 8.5
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 5.2,
+          "avg_rating": 6.2
+        },
+        "Food": {
+          "avg_price": 9.75,
+          "avg_rating": 8.5
+        },
+        "Toys & Supplies": {
+          "avg_price": 11.7,
+          "avg_rating": 8.9
+        },
+        "Medical": {
+          "avg_price": 6.5,
+          "avg_rating": 8.6
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 11.7,
+          "avg_rating": 6.2
+        },
+        "Food": {
+          "avg_price": 16.25,
+          "avg_rating": 7.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 19.5,
+          "avg_rating": 6.9
+        },
+        "Medical": {
+          "avg_price": 13.0,
+          "avg_rating": 5.3
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 16.25,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 26.0,
+          "avg_rating": 5.8
+        },
+        "Toys & Supplies": {
+          "avg_price": 22.75,
+          "avg_rating": 7.9
+        },
+        "Medical": {
+          "avg_price": 19.5,
+          "avg_rating": 8.4
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 19.5,
+          "avg_rating": 7.2
+        },
+        "Food": {
+          "avg_price": 35.75,
+          "avg_rating": 8.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.0,
+          "avg_rating": 9.0
+        },
+        "Medical": {
+          "avg_price": 29.25,
+          "avg_rating": 7.3
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 32.5,
+          "avg_rating": 6.1
+        },
+        "Food": {
+          "avg_price": 35.75,
+          "avg_rating": 6.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 26.0,
+          "avg_rating": 5.5
+        },
+        "Medical": {
+          "avg_price": 29.25,
+          "avg_rating": 7.7
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 29.25,
+          "avg_rating": 7.3
+        },
+        "Food": {
+          "avg_price": 26.0,
+          "avg_rating": 7.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 22.75,
+          "avg_rating": 8.3
+        },
+        "Medical": {
+          "avg_price": 26.0,
+          "avg_rating": 6.8
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 26.0,
+          "avg_rating": 8.3
+        },
+        "Food": {
+          "avg_price": 39.0,
+          "avg_rating": 7.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 29.25,
+          "avg_rating": 7.7
+        },
+        "Medical": {
+          "avg_price": 35.75,
+          "avg_rating": 7.3
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 32.5,
+          "avg_rating": 6.4
+        },
+        "Food": {
+          "avg_price": 58.5,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 35.75,
+          "avg_rating": 8.3
+        },
+        "Medical": {
+          "avg_price": 45.5,
+          "avg_rating": 8.6
+        }
+      }
+    },
+    "Antarctica": {
+      "Reptile": {
+        "Grooming": {
+          "avg_price": 6.0,
+          "avg_rating": 7.7
+        },
+        "Food": {
+          "avg_price": 24.0,
+          "avg_rating": 7.4
+        },
+        "Toys & Supplies": {
+          "avg_price": 40.0,
+          "avg_rating": 8.0
+        },
+        "Medical": {
+          "avg_price": 16.0,
+          "avg_rating": 5.4
+        }
+      },
+      "fish": {
+        "Grooming": {
+          "avg_price": 16.0,
+          "avg_rating": 6.8
+        },
+        "Food": {
+          "avg_price": 24.0,
+          "avg_rating": 5.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 40.0,
+          "avg_rating": 8.8
+        },
+        "Medical": {
+          "avg_price": 10.0,
+          "avg_rating": 7.0
+        }
+      },
+      "hamster": {
+        "Grooming": {
+          "avg_price": 16.0,
+          "avg_rating": 5.5
+        },
+        "Food": {
+          "avg_price": 30.0,
+          "avg_rating": 7.1
+        },
+        "Toys & Supplies": {
+          "avg_price": 36.0,
+          "avg_rating": 5.6
+        },
+        "Medical": {
+          "avg_price": 20.0,
+          "avg_rating": 8.0
+        }
+      },
+      "bird": {
+        "Grooming": {
+          "avg_price": 36.0,
+          "avg_rating": 6.0
+        },
+        "Food": {
+          "avg_price": 50.0,
+          "avg_rating": 6.5
+        },
+        "Toys & Supplies": {
+          "avg_price": 60.0,
+          "avg_rating": 5.8
+        },
+        "Medical": {
+          "avg_price": 40.0,
+          "avg_rating": 6.5
+        }
+      },
+      "rabbit": {
+        "Grooming": {
+          "avg_price": 50.0,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 80.0,
+          "avg_rating": 6.9
+        },
+        "Toys & Supplies": {
+          "avg_price": 70.0,
+          "avg_rating": 7.4
+        },
+        "Medical": {
+          "avg_price": 60.0,
+          "avg_rating": 6.8
+        }
+      },
+      "Short-haired Cat": {
+        "Grooming": {
+          "avg_price": 60.0,
+          "avg_rating": 6.9
+        },
+        "Food": {
+          "avg_price": 110.0,
+          "avg_rating": 6.0
+        },
+        "Toys & Supplies": {
+          "avg_price": 80.0,
+          "avg_rating": 8.0
+        },
+        "Medical": {
+          "avg_price": 90.0,
+          "avg_rating": 6.7
+        }
+      },
+      "Long-haired Cat": {
+        "Grooming": {
+          "avg_price": 100.0,
+          "avg_rating": 6.8
+        },
+        "Food": {
+          "avg_price": 110.0,
+          "avg_rating": 5.7
+        },
+        "Toys & Supplies": {
+          "avg_price": 80.0,
+          "avg_rating": 5.5
+        },
+        "Medical": {
+          "avg_price": 90.0,
+          "avg_rating": 6.0
+        }
+      },
+      "Small Dog": {
+        "Grooming": {
+          "avg_price": 90.0,
+          "avg_rating": 7.3
+        },
+        "Food": {
+          "avg_price": 80.0,
+          "avg_rating": 8.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 70.0,
+          "avg_rating": 6.5
+        },
+        "Medical": {
+          "avg_price": 80.0,
+          "avg_rating": 8.4
+        }
+      },
+      "Medium Dog": {
+        "Grooming": {
+          "avg_price": 80.0,
+          "avg_rating": 5.4
+        },
+        "Food": {
+          "avg_price": 120.0,
+          "avg_rating": 7.6
+        },
+        "Toys & Supplies": {
+          "avg_price": 90.0,
+          "avg_rating": 7.7
+        },
+        "Medical": {
+          "avg_price": 110.0,
+          "avg_rating": 7.2
+        }
+      },
+      "Large Dog": {
+        "Grooming": {
+          "avg_price": 100.0,
+          "avg_rating": 7.9
+        },
+        "Food": {
+          "avg_price": 180.0,
+          "avg_rating": 7.8
+        },
+        "Toys & Supplies": {
+          "avg_price": 110.0,
+          "avg_rating": 7.7
+        },
+        "Medical": {
+          "avg_price": 140.0,
+          "avg_rating": 5.8
+        }
+      }
+    }
+  },
+  "global_data": {
+    "Reptile": {
+      "Grooming": {
+        "avg_price": 3.0,
+        "avg_rating": 7.0
+      },
+      "Food": {
+        "avg_price": 12.0,
+        "avg_rating": 6.7
+      },
+      "Toys & Supplies": {
+        "avg_price": 20.0,
+        "avg_rating": 8.0
+      },
+      "Medical": {
+        "avg_price": 8.0,
+        "avg_rating": 7.2
+      }
+    },
+    "fish": {
+      "Grooming": {
+        "avg_price": 8.0,
+        "avg_rating": 6.6
+      },
+      "Food": {
+        "avg_price": 12.0,
+        "avg_rating": 8.9
+      },
+      "Toys & Supplies": {
+        "avg_price": 20.0,
+        "avg_rating": 6.6
+      },
+      "Medical": {
+        "avg_price": 5.0,
+        "avg_rating": 5.7
+      }
+    },
+    "hamster": {
+      "Grooming": {
+        "avg_price": 8.0,
+        "avg_rating": 7.7
+      },
+      "Food": {
+        "avg_price": 15.0,
+        "avg_rating": 6.7
+      },
+      "Toys & Supplies": {
+        "avg_price": 18.0,
+        "avg_rating": 8.2
+      },
+      "Medical": {
+        "avg_price": 10.0,
+        "avg_rating": 5.9
+      }
+    },
+    "bird": {
+      "Grooming": {
+        "avg_price": 18.0,
+        "avg_rating": 8.9
+      },
+      "Food": {
+        "avg_price": 25.0,
+        "avg_rating": 5.4
+      },
+      "Toys & Supplies": {
+        "avg_price": 30.0,
+        "avg_rating": 7.5
+      },
+      "Medical": {
+        "avg_price": 20.0,
+        "avg_rating": 5.1
+      }
+    },
+    "rabbit": {
+      "Grooming": {
+        "avg_price": 25.0,
+        "avg_rating": 8.2
+      },
+      "Food": {
+        "avg_price": 40.0,
+        "avg_rating": 8.3
+      },
+      "Toys & Supplies": {
+        "avg_price": 35.0,
+        "avg_rating": 7.7
+      },
+      "Medical": {
+        "avg_price": 30.0,
+        "avg_rating": 7.7
+      }
+    },
+    "Short-haired Cat": {
+      "Grooming": {
+        "avg_price": 30.0,
+        "avg_rating": 8.8
+      },
+      "Food": {
+        "avg_price": 55.0,
+        "avg_rating": 5.8
+      },
+      "Toys & Supplies": {
+        "avg_price": 40.0,
+        "avg_rating": 6.9
+      },
+      "Medical": {
+        "avg_price": 45.0,
+        "avg_rating": 7.2
+      }
+    },
+    "Long-haired Cat": {
+      "Grooming": {
+        "avg_price": 50.0,
+        "avg_rating": 5.1
+      },
+      "Food": {
+        "avg_price": 55.0,
+        "avg_rating": 5.8
+      },
+      "Toys & Supplies": {
+        "avg_price": 40.0,
+        "avg_rating": 8.5
+      },
+      "Medical": {
+        "avg_price": 45.0,
+        "avg_rating": 7.8
+      }
+    },
+    "Small Dog": {
+      "Grooming": {
+        "avg_price": 45.0,
+        "avg_rating": 7.7
+      },
+      "Food": {
+        "avg_price": 40.0,
+        "avg_rating": 6.2
+      },
+      "Toys & Supplies": {
+        "avg_price": 35.0,
+        "avg_rating": 7.8
+      },
+      "Medical": {
+        "avg_price": 40.0,
+        "avg_rating": 5.4
+      }
+    },
+    "Medium Dog": {
+      "Grooming": {
+        "avg_price": 40.0,
+        "avg_rating": 6.7
+      },
+      "Food": {
+        "avg_price": 60.0,
+        "avg_rating": 5.5
+      },
+      "Toys & Supplies": {
+        "avg_price": 45.0,
+        "avg_rating": 5.2
+      },
+      "Medical": {
+        "avg_price": 55.0,
+        "avg_rating": 6.8
+      }
+    },
+    "Large Dog": {
+      "Grooming": {
+        "avg_price": 50.0,
+        "avg_rating": 8.7
+      },
+      "Food": {
+        "avg_price": 90.0,
+        "avg_rating": 5.0
+      },
+      "Toys & Supplies": {
+        "avg_price": 55.0,
+        "avg_rating": 5.7
+      },
+      "Medical": {
+        "avg_price": 70.0,
+        "avg_rating": 8.0
+      }
+    }
+  }
+}
